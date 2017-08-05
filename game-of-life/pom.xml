@@ -496,3 +496,15 @@
         </profile>
     </profiles>
 </project>
+<repository>
+    <id>12345</id>
+    <username>maheshkumar</username>
+    <password>maheshkumar</password>
+    <url>http://35.193.42.38:8081/repository/maven-snapshots</url>
+</repository>
+<snapshot>
+    <id>12345</id>
+    <username>maheshkumar</username>
+    <password>maheshkumar</password>
+    <url>http://35.193.42.38:8081/repository/maven-snapshots</url>
+</snapshot>
